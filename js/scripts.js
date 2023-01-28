@@ -48,7 +48,6 @@ function createCardHtml (person) {
 
 // Creates html for person modal
 function createModalHtml (person) {
-    console.log(person)
     return `
     <div class="modal-container">
         <div class="modal">
